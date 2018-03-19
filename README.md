@@ -1,7 +1,6 @@
 # Minutki - grupa 5
 
-
-## Informal Meeting [16.03.2018]
+## [Informal Meeting [16.03.2018]](/InfMeet1.md)
 
 Zebranie I (tuż po 1 zajęciach) - 16.03.2018, godz. 15:15
 1. 15:15 - Otwarcie zebrania
