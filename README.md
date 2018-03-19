@@ -1,6 +1,5 @@
 # Minutki - grupa 5
 
-[comment]: # (* ## [Informal Meeting [16.03.2018]](/InfMeet1.md))
 
 ## Informal Meeting [16.03.2018]
 
