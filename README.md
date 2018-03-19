@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# Minutki - grupa 5
 
-You can use the [editor on GitHub](https://github.com/PZGroup5/webpage/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Informal Meeting [16.03.2018]
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PZGroup5/webpage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Zebranie I (tuż po 1 zajęciach) - 16.03.2018, godz. 15:15
+1. 15:15 - Otwarcie zebrania
+2. Wstęp do problemu.
+3. Dokładniejsze zaznajomienie się z problemem i podsumowanie restrykcji dotyczących problemu, wypisanie restrykcji dla lepszego zrozumienia.
+4. Ustaliliśmy z grubsza jakie są restrykcje naszego problemu, by ułatwić jego zrozumienie oraz dalsze działania.
+5. Podział obowiązków:
+    - Bartosz Dutka - zapoznanie się z techniczną stroną problemu (przegląd publikacji)
+    - Kamil Dębiński - strona internetowa, repozytorium (github)
+    - Remigiusz Dąbrowski - komunikacja głosowa i przesyłanie materiałów (discord)
+    - Tomasz Frańczak - lider, organizacja obowiązków
+    - Marcin Dyrcz - zapoznanie się z techniczną stroną problemu (przegląd publikacji)
+    - Szymon Drożdż - utworzenie repozytorium (github)
+6. Zakończenie zebrania 15:50.
+7. Obecność
+    - Na zebraniu obecni byli wszyscy członkowie zespołu.
