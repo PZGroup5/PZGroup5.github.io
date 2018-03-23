@@ -17,3 +17,7 @@ Zebranie I (tuż po 1 zajęciach) - 16.03.2018, godz. 15:15
 6. Zakończenie zebrania 15:50.
 7. Obecność
     - Na zebraniu obecni byli wszyscy członkowie zespołu.
+
+    
+* Chairman: Tomasz Frańczak
+* Secretary: Bartosz Dutka
