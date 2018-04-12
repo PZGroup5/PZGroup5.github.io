@@ -1,8 +1,8 @@
 [< Back to main page](/)
 
-## Informal Meeting [20.03.2018]
+## Informal Meeting [21.03.2018]
 
-Zebranie II - 20.03.2018, godz. 15:30
+Zebranie II - 21.03.2018, godz. 15:30
 1. Rozliczenie:
     - Uruchomiona została strona internetowa
     - Zostało założone repozytorium (github)
