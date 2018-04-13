@@ -8,7 +8,7 @@ Zebranie IV, nieformalne – 07.04.2018, godz. 17:00
 3. Omawianie zagadnień na prezentację dotychczasowej pracy.
 	a) Celem tego punktu zebrania było uporządkowanie tego, co chcemy zaprezentować i omówienie jak ta prezentacja przebiegnie. 
 4. Omawianie wymagań aplikacji i przypadków użycia.
-5. Mała dyskusja a temat oficjalnej strony projektu i jej design'u.
+5. Mała dyskusja na temat oficjalnej strony projektu i jej design'u.
 6. Wolne wnioski.
 7. Wyznaczenie obowiązków na następny tydzień.
 	Tomasz Frańczak, Szymon Drożdż, Remigiusz Dąbrowski - strona aplikacji.
