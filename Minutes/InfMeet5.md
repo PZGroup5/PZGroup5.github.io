@@ -11,9 +11,9 @@ Zebranie V, nieformalne -  17.04.2018 godzina 19:00
 6. Dyskusja o prezentacji i plakacie
 7. Wolne wnioski
 8. Wyznaczenie zadań na następny tydzień:
-	Remigiusz Dąbrowski – Interim Report
-	Szymon Drożdż, Tomasz Frańczak – GUI aplikacji, plakat
-	Kamil Dębiński, Bartosz Dutka, Marcin Dyrcz – prototyp, ograniczenia
+	- Remigiusz Dąbrowski – Interim Report
+	- Szymon Drożdż, Tomasz Frańczak – GUI aplikacji, plakat
+	- Kamil Dębiński, Bartosz Dutka, Marcin Dyrcz – prototyp, ograniczenia
 9. Zakończenie spotkania: 19:30
 * Chairman: Bartosz Dutka
 * Secretary: Marcin Dyrcz
