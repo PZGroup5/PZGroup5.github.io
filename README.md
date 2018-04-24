@@ -9,6 +9,7 @@
 * ### [Informal Meeting [16.03.2018]](https://pzgroup5.github.io/Minutes/InfMeet1)
 
 ## Agendas
+* ### [Informal Meeting [24.04.2018]](https://pzgroup5.github.io/Agendas/Agenda-240418)
 * ### [Informal Meeting [07.04.2018]](https://pzgroup5.github.io/Agendas/Agenda-070418)
 * ### [Informal Meeting [27.03.2018]](https://pzgroup5.github.io/Agendas/Agenda-270318)
 * ### [Informal Meeting [21.03.2018]](https://pzgroup5.github.io/Agendas/Agenda-210318)
