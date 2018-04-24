@@ -1,6 +1,7 @@
 # Team Project group 5 website
 
 ## Minutes
+* ### [Informal Meeting [24.04.2018]](https://pzgroup5.github.io/Minutes/InfMeet6)
 * ### [Informal Meeting [17.04.2018]](https://pzgroup5.github.io/Minutes/InfMeet5)
 * ### [Informal Meeting [07.04.2018]](https://pzgroup5.github.io/Minutes/InfMeet4)
 * ### [Informal Meeting [27.03.2018]](https://pzgroup5.github.io/Minutes/InfMeet3)
@@ -11,4 +12,3 @@
 * ### [Informal Meeting [07.04.2018]](https://pzgroup5.github.io/Agendas/Agenda-070418)
 * ### [Informal Meeting [27.03.2018]](https://pzgroup5.github.io/Agendas/Agenda-270318)
 * ### [Informal Meeting [21.03.2018]](https://pzgroup5.github.io/Agendas/Agenda-210318)
-
