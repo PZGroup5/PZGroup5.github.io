@@ -11,8 +11,8 @@ Zebranie IV, nieformalne – 07.04.2018, godz. 17:00
 5. Mała dyskusja na temat oficjalnej strony projektu i jej design'u.
 6. Wolne wnioski.
 7. Wyznaczenie obowiązków na następny tydzień.
-	Tomasz Frańczak, Szymon Drożdż, Remigiusz Dąbrowski - strona aplikacji.
-	Marcin Dyrcz, Bartosz Dutka, Kamil Dębiński - dalsze prace nad prototypem, constraints.
+	- Tomasz Frańczak, Szymon Drożdż, Remigiusz Dąbrowski - strona aplikacji.
+	- Marcin Dyrcz, Bartosz Dutka, Kamil Dębiński - dalsze prace nad prototypem, constraints.
 8. Zakończenie zebrania – 17:45.
 
 * Chairman: Szymon Drożdż 
