@@ -1,5 +1,5 @@
 # Team Project group 5 website
-## Interim Report
+## Reports
 * ### [Interim Report [06.05.2018]](https://github.com/PZGroup5/PZGroup5.github.io/raw/master/Interim_Report_1.0.pdf)
 ## Minutes
 * ### [Informal Meeting [24.04.2018]](https://pzgroup5.github.io/Minutes/InfMeet6)
