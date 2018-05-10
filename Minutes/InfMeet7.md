@@ -1,6 +1,6 @@
 [< Back to main page](/)
 
-## Informal Meeting [24.04.2018]
+## Informal Meeting [09.05.2018]
 
 Zebranie VII, nieformalne -  09.05.2018 godzina 15:30
 1. Rozpoczęcie zebrania godzina 15:30, wszyscy członkowie zespołu obecni
