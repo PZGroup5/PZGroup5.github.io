@@ -1,3 +1,5 @@
+[< Back to main page](/)
+
 ## Informal Meeting [12.06.2018]
 
 Zebranie X, nieformalne -  12.06.2018 godzina 15:20
