@@ -2,6 +2,7 @@
 ## Reports
 * ### [Interim Report [06.05.2018]](https://github.com/PZGroup5/PZGroup5.github.io/raw/master/Interim_Report_1.0.pdf)
 ## Minutes
+* ### [Informal Meeting [12.06.2018]](https://pzgroup5.github.io/Minutes/InfMeet10)
 * ### [Informal Meeting [23.05.2018]](https://pzgroup5.github.io/Minutes/InfMeet9)
 * ### [Informal Meeting [16.05.2018]](https://pzgroup5.github.io/Minutes/InfMeet8)
 * ### [Informal Meeting [09.05.2018]](https://pzgroup5.github.io/Minutes/InfMeet7)
